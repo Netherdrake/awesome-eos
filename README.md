@@ -15,6 +15,9 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 
 ## Language Support
 
+### Go
+- [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API Wrapper for Golang
+
 ### JavaScript
 - [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
 - [eosjs-api](https://github.com/EOSIO/eosjs) - EOS api wrapper for JS
