@@ -11,7 +11,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
-
+- [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
 
 ## Language Support
 
