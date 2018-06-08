@@ -5,6 +5,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [EOS Wiki](https://github.com/EOSIO/eos/wiki) - High Level EOS Software Overview
 - [EOS Documentation](https://eosio.github.io/eos/) - Lower Level API Documentation
 - [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - Ian Grigg's Whitepaper
+-[EOS Storage White paper](https://github.com/EOSIO/Documentation/raw/master/EOS.IO%20Storage.pdf) - EOS Storage Plan
 
 ## Tools
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
