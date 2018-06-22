@@ -5,6 +5,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [EOS Wiki](https://github.com/EOSIO/eos/wiki) - High Level EOS Software Overview
 - [EOS Documentation](https://eosio.github.io/eos/) - Lower Level API Documentation
 - [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - Ian Grigg's Whitepaper
+- [EOSIO Developer Portal](https://developers.eos.io/) - Official EOSIO developer portal, with docs, APIs etc.
 
 ## Tools
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
@@ -12,6 +13,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 - [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
+- [windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard: watch personal or public nodes and receive alerts if any node fails, chain fork etc.
 
 ## Language Support
 
@@ -32,6 +34,18 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 
 ### Scala
 - [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
+
+### Elixir
+
+- [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS RPC Api Wrapper for elixir
+
+### Smart Contracts Examples
+
+- [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
+- [DecenTwitter](https://github.com/kesar/decentwitter) - Decent(ralized) Twitter - ZERO!!! Ram Cost
+- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - IPFS integration, tokenization and governance
+
+
 
 -----
 
