@@ -39,7 +39,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 
 - [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS RPC Api Wrapper for elixir
 
-### Official Smart Contracts
+### Smart Contracts Examples
 
 - [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
 - [DecenTwitter](https://github.com/kesar/decentwitter) - Decent(ralized) Twitter - ZERO!!! Ram Cost
