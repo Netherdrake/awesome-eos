@@ -11,9 +11,11 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
 - [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
+- [Cleos Auto Completion](https://github.com/hexlant/cleos-auto-completion) - Command auto completion features for EOS Cleos.
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 - [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
 - [windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard: watch personal or public nodes and receive alerts if any node fails, chain fork etc.
+
 
 ## Language Support
 
