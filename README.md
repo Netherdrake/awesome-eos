@@ -28,6 +28,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
+- [eosjs-react-native](https://github.com/EvaCoop/eosjs-react-native) - React Native configuration of eosjs
 
 ### Python
 - [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs
