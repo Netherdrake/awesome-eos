@@ -15,7 +15,10 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 - [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
 - [windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard: watch personal or public nodes and receive alerts if any node fails, chain fork etc.
-
+- [EOSDevHelper](https://github.com/OracleChain/EOSDevHelper) - Cross-platform PC wallet.
+- [EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) - EOS pressure testing tool.
+- [PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) - Open source wallet for IOS.
+- [PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) - Open source wallet for Android.
 
 ## Language Support
 
