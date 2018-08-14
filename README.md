@@ -37,6 +37,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 - [pyeos_client](https://github.com/EvaCoop/pyeos_client) - EOS RPC wrapper for Python
+- [django scatter auth](https://github.com/Bearle/django-scatter-auth) - Django Authentication using Scatter
 
 ### Scala
 - [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
