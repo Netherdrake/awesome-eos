@@ -46,6 +46,10 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 
 - [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS RPC Api Wrapper for elixir
 
+### Swift
+
+- [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - EOS account management and RPC wrapper in Swift.
+
 ### Smart Contracts Examples
 
 - [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
