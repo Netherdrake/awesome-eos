@@ -19,6 +19,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) - EOS pressure testing tool.
 - [PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) - Open source wallet for IOS.
 - [PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) - Open source wallet for Android.
+- [EOS REACH Android](https://github.com/memtrip/eosreach) - Open source wallet for Android.
 
 ## Language Support
 
@@ -33,6 +34,9 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
 - [eosjs-react-native](https://github.com/EvaCoop/eosjs-react-native) - React Native configuration of eosjs
 - [demux-js](https://github.com/EOSIO/demux-js) - Deterministic event-sourced state and side effect handling for blockchain applications
+
+### Java / Kotlin
+- [eos-jvm](https://github.com/memtrip/eos-jvm) - General purpose library for the EOS blockchain.
 
 ### Python
 - [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs
