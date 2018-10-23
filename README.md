@@ -33,6 +33,8 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
 - [eosjs-react-native](https://github.com/EvaCoop/eosjs-react-native) - React Native configuration of eosjs
+- [eosjs-rn](https://github.com/Game-X-Coin/eosjs-rn) - eosjs for react native
+- [eosjs-ecc-rn](https://github.com/Game-X-Coin/eosjs-ecc-rn) - eosjs-ecc for react native
 - [demux-js](https://github.com/EOSIO/demux-js) - Deterministic event-sourced state and side effect handling for blockchain applications
 
 ### Java / Kotlin
