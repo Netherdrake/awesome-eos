@@ -21,6 +21,10 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) - Open source wallet for Android.
 - [EOS REACH Android](https://github.com/memtrip/eosreach) - Open source wallet for Android.
 
+## Explorer
+- [EOSPark](https://eospark.com) - Powerful EOS Explorer
+- [EOSFlare](https://eosflare.io) - EOS Block Explorer
+
 ## Language Support
 
 ### Go
