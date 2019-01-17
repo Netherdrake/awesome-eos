@@ -42,7 +42,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 - [demux-js](https://github.com/EOSIO/demux-js) - Deterministic event-sourced state and side effect handling for blockchain applications
 
 ### Java / Kotlin
-- [eos-jvm](https://github.com/memtrip/eos-jvm) - General purpose library for the EOS blockchain.
+- [eos-jvm](https://github.com/memtrip/eos-jvm) - General purpose library for the EOS blockchain, with a focus on building and pushing transactions.
 
 ### Python
 - [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs
@@ -60,6 +60,7 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 ### Swift
 
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - EOS account management and RPC wrapper in Swift.
+- [eos-swift](https://github.com/memtrip/eos-swift) - General purpose library for the EOS blockchain, with a focus on building and pushing transactions.
 
 ### Smart Contracts Examples
 
@@ -75,6 +76,6 @@ A curated list of awesome [EOS](https://github.com/EOSIO/eos) frameworks, librar
 
 Your contributions are always welcome!
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could 
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could
 [vote for them](https://github.com/Netherdrake/awesome-eos/pulls) by adding :+1: to them.
 Pull requests will be merged when their votes reach 3.
